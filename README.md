@@ -1,2 +1,2 @@
 # site-escola
-Site escrito em HTML e CSS. Disponível em: <a href=escolasaber.surge.sh>Escola Saber</a>
+Site escrito em HTML e CSS. Disponível em: [Escola Saber](escolasaber.surge.sh)
